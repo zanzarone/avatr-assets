@@ -3,14 +3,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/zanzarone/avatr-assets">
     <img src="images/logo_name.png" alt="Logo" width="192" height="46">
   </a>
 
   <h1 align="center">Assets & Sprites</h1>
 
   <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/zanzarone/avatr-assets/issues">Request Feature</a>
   </p>
 </div>
 
